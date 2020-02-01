@@ -1,3 +1,10 @@
+* {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+
 .card-container {
   display: flex;
   justify-content: space-between;
@@ -38,3 +45,47 @@ ul {
 .car-paper {
   padding: 50px;
 }
+
+#Car_Container {
+  width: 75vw;
+  /* background: pink; */
+  margin: 0 auto;
+}
+
+#Container {
+  /* background: orange; */
+  height: auto;
+  width: 30vw;
+  padding: 2em;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: left;
+  margin-bottom: .5em;
+}
+
+#Paper {
+  padding: 2em;
+  text-align: left;
+}
+
+/* .makeStyles-root-92 {
+  display: flex;
+  justify-content: center;
+  width: 50vw;
+  margin: 0 auto;
+  
+}
+
+.MuiContainer-root {
+  
+  width: auto;
+  margin: 0 auto;
+}
+
+.MuiPaper-rounded {
+  width: 30vw;
+  height: 300px;
+  margin: 0 auto;
+} */
